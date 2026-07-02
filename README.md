@@ -8,26 +8,24 @@ Built as part of my AI/ML internship at **Pinnacle Labs**.
 
 ## 🖼️ Screenshots
 
-> *(Screenshots below — see the note under each for what to capture from your demo video)*
-
 **1. Home screen / upload interface**
-`![Home Screen](screenshots/home.png)`
+![Home Screen](screenshots/home.png)
 📌 *Capture: The sidebar with the file uploader, and the 3 stat cards (175+ Skills Tracked, 300+ Skill Aliases, Gemini 2.5 Flash) on the main screen before any resumes are uploaded.*
 
 **2. Parsing in progress**
-`![Parsing](screenshots/parsing.png)`
+![Parsing](screenshots/parsing.png)
 📌 *Capture: The progress bar / spinner while resumes are being parsed ("Parsed X of Y resumes...").*
 
 **3. Summary metrics + table**
-`![Summary Table](screenshots/summary.png)`
+![Summary Table](screenshots/summary.png)
 📌 *Capture: The 4 metric cards (Resumes Parsed, Total Skills Found, Unique Skills, Avg Skills/Resume) and the summary data table below it.*
 
 **4. Individual resume detail view**
-`![Resume Detail](screenshots/detail.png)`
+![Resume Detail](screenshots/detail.png)
 📌 *Capture: One expanded resume card showing contact info, skill tags, education, and experience sections.*
 
 **5. Skills analytics chart**
-`![Skills Analytics](screenshots/analytics.png)`
+![Skills Analytics](screenshots/analytics.png)
 📌 *Capture: The horizontal bar chart showing "Top 15 Skills Across N Resumes" with the skill counts table beside it.*
 
 ---
