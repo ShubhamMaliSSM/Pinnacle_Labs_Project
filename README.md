@@ -57,8 +57,8 @@ Built as part of my AI/ML internship at **Pinnacle Labs**.
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/ShubhamMaliSSM/Pinnacle_Labs_Project.git
-   cd Pinnacle_Labs_Project
+   git clone https://github.com/ShubhamMaliSSM/AI-Resume-Parser.git
+   cd AI-Resume-Parser
    ```
 
 2. **Install dependencies:**
