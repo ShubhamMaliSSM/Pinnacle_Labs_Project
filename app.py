@@ -14,7 +14,7 @@ from collections import Counter
 st.set_page_config(
     page_title="Resume Parser",
     page_icon="📄",
-    layout="wide"                          # ✅ wide layout for sidebar + content
+    layout="wide"    
 )
 
 # Custom CSS
