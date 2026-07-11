@@ -55,7 +55,7 @@ Built as part of my AI/ML internship at **Pinnacle Labs**.
 
 ## 🔴 Live Demo
 
-[Resume Parser App](https://share.streamlit.io/ShubhamMaliSSM/AI-Resume-Parser/main/app.py)
+[Resume Parser App](https://ai-resume-parser-gemini.streamlit.app/)
 
 ## 📦 Installation
 
